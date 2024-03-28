@@ -1,6 +1,4 @@
 # Vision Knowledge Conflicts Contrastive Decoding
-##### *Xunzhe Zhou, Xu Li, Yi Zheng*
-
 This is the official code for Vision Knowledge Conflicts Contrastive Decoding.
 
 ## Install
