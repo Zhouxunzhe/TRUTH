@@ -1,0 +1,52 @@
+{
+    "data": [
+        {
+            "prompt": "USER: <image>\nhow many fingers does the man have? (a) 4 (b) 5 (c) 6 (d) 3\nASSISTANT:",
+            "image_file": "1.jpg"
+        },
+        {
+            "prompt": "USER: <image>\nhow many fingers are in the picture? (a) 10 (b) 8 (c) 12 (d) 14\nASSISTANT",
+            "image_file": "2.jpg"
+        },
+        {
+            "prompt": "USER: <image>\nhow many toes are in the image? (a) 10 (b) 12 (c) 14 (d) 16\nASSISTANT:",
+            "image_file": "3.jpg"
+        },
+        {
+            "prompt": "USER: <image>\nwhat is the color of the orange skin? (a) red (b) orange (c) green (d) blue\nASSISTANT:",
+            "image_file": "4.jpg"
+        },
+        {
+            "prompt": "USER: <image>\nwho is driving the car? (a) a man (b) a woman (c) a dog (d) a child\nASSISTANT:",
+            "image_file": "5.jpg"
+        },
+        {
+            "prompt": "USER: <image>\nwhere is the ship? (a) in the ocean (b) in the sky (c) on the ground (d) nowhere\nASSISTANT:",
+            "image_file": "6.jpg"
+        },
+        {
+            "prompt": "USER: <image>\nwhat is on the top of the woman's body? (a) a head (b) a hand (c) a foot (d) nothing\nASSISTANT:",
+            "image_file": "7.jpg"
+        },
+        {
+            "prompt": "USER: <image>\nwhat is the color of the orange skin? (a) red (b) orange (c) green (d) blue\nASSISTANT:",
+            "image_file": "8.jpg"
+        },
+        {
+            "prompt": "USER: <image>\nhow many eyes does the right man have? (a) 2 (b) 1 (c) 3 (d) 0\nASSISTANT:",
+            "image_file": "9.jpg"
+        },
+        {
+            "prompt": "USER: <image>\nwhat is the color of the orange skin? (a) red (b) orange (c) green (d) blue\nASSISTANT:",
+            "image_file": "10.jpg"
+        },
+        {
+            "prompt": "USER: <image>\nwhat is on the top of the man's body? (a) head (b) water (c) foot (d) hand\nASSISTANT:",
+            "image_file": "11.jpg"
+        },
+        {
+            "prompt": "USER: <image>\nhow many toes are in the image? (a) 9 (b) 10 (c) 11 (d) 0\nASSISTANT:",
+            "image_file": "12.jpg"
+        }
+    ]
+}
