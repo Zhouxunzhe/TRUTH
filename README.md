@@ -40,10 +40,10 @@ pip install -e .
 
 ## Run
 
-For different <model>
+For different models
 
 ```
-cd <model>
+cd [your model name]
 # for example, 'cd tiny_llava' for model Tiny LLaVA
 ```
 
