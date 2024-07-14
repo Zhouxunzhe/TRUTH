@@ -1,5 +1,5 @@
-# Vision Knowledge Conflicts Contrastive Decoding
-This is the official code for Vision Knowledge Conflicts Contrastive Decoding.
+# TRUTH: Toward resolving Robot vision Understanding Task Hallucinations
+This is the official code for TRUTH: Toward resolving Robot vision Understanding Task Hallucinations.
 
 ## Install
 
