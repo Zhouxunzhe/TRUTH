@@ -3,38 +3,42 @@ This is the official code for TRUTH: Toward resolving Robot vision Understanding
 
 ## Install
 
-Clone this repository and navigate to LLaVA folder
+1. **Clone this repository**
 
-```
-git clone https://github.com/DLCV-BUAA/TinyLLaVABench.git
-cd TinyLLaVABench
-```
+   ```bash
+   git clone https://github.com/Zhouxunzhe/TRUTH.git
+   cd TRUTH
+   ```
 
-Install Package
+2. **Preparing conda env**
 
-```
-conda create -n tinyllava python=3.10 -y
-conda activate tinyllava
-pip install --upgrade pip  # enable PEP 660 support
-pip install -e .
-```
+   Assuming you have [conda](https://docs.conda.io/projects/conda/en/latest/user-guide/install/) installed, let's prepare a conda env:
 
-Install additional packages for training cases
+   ```bash
+   conda create -n truth python=3.9 -y
+   conda activate truth
+   ```
 
-```
-pip install -e ".[train]"
-pip install flash-attn --no-build-isolation
-```
+3. **conda install truth**
 
-Upgrade to the latest code base
+   ```bash
+   pip install --upgrade pip
+   pip install torch==1.9.1+cu111 torchvision==0.10.1+cu111 torchaudio==0.9.1 -f https://download.pytorch.org/whl/torch_stable.html
+   pip install -e .
+   ```
 
-```
-git pull
-pip install -e .
+4. **Install additional packages**
 
-# if you see some import errors when you upgrade, please try running the command below (without #)
-# pip install flash-attn --no-build-isolation --no-cache-dir
-```
+   ```bash
+   pip install flash-attn --no-build-isolation
+   ```
+
+5. Upgrade to the latest code base
+
+   ```bash
+   git pull
+   pip install -e .
+   ```
 
 ## Run
 
