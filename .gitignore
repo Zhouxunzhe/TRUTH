@@ -97,4 +97,4 @@ target/
 TinyLLaVABench/
 
 # data
-data/VLM_Eval_Screenshots
+# data/VLM_Eval_Screenshots
