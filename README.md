@@ -1,9 +1,9 @@
 # TRUTH: Toward resolving Robot vision Understanding Task Hallucinations
+![](./media/2024_vcd.png)
+
 This is the official code for TRUTH: Toward resolving Robot vision Understanding Task Hallucinations.
 
 ***Note***: The code was initially for resolving knowledge conflicts in Vision-Language Models with contrastive decoding, but will be revised for resolving robot vision complex scene understanding hallucination.
-
-![](./media/2024_vcd.png)
 
 ## Install
 
