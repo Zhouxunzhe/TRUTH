@@ -3,6 +3,8 @@ This is the official code for TRUTH: Toward resolving Robot vision Understanding
 
 ***Note***: The code was initially for resolving knowledge conflicts in Vision-Language Models with contrastive decoding, but will be revised for resolving robot vision complex scene understanding hallucination.
 
+![](./media/2024_vcd.png)
+
 ## Install
 
 1. **Clone this repository**
